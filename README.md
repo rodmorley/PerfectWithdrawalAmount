@@ -2,7 +2,7 @@
 #### Retirement Planning
 </h>
 
-This R code takes the formula for the Perfect Withdrawal Amount ['PWA'] from the paper by Suarez, Suarez & Walz (SSRN 2551370) and re-samples from 30+ years of annual S&P500 returns to simulate, forward investment returns, compute the PWA, and graph the results.
+This R code takes the formula for the Perfect Withdrawal Amount ['PWA'] from the paper by Suarez, Suarez & Walz (SSRN 2551370) and re-samples from 30+ years of annual S&P500 returns to simulate forward investment returns, compute the PWA, and graph the results.
 
 The idea came from "The State of Risk Management" by Newfound Research, August 2018.
 
